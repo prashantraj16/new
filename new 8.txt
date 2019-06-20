@@ -1,0 +1,117 @@
+Product
+	ProductId - int
+	Product Name - string
+	Product Price - decimal
+	Manufacturing Date - Date
+	
+Bill
+	BillNo - guid
+	total Quantity - int
+	Total Tax - decimal
+	Total Price - decimal
+	Bill Date - date
+
+Category
+	Category A - 10
+	Category B - 20
+	Category C - 0
+
+Items
+	Sl. No.	- int
+	Product - Product
+	Quantity - int
+	Tax	- decimal
+	Total Price - decimal
+
+Store Images
+Storing and retreving Encrypted Data
+Nested Data in Mongo
+
+
+
+	
+	
+get one
+gell all
+Delete
+update
+Insert
+
+Design Pattern
+Authtication JWT
+Logging Service
+
+Deployment
+
+Challenges and overcome
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Application level middleware app.use
+Router level middleware router.use
+Built-in middleware express.static,express.json,express.urlencoded
+Error handling middleware app.use(err,req,res,next)
+Thirdparty middleware bodyparser,cookieparser
+
+
+
+
+cors middleware
+csrf middleware
+auth middleware
+
+gzip 
+HTTPS 
+
+cron job
+
+
+
+
+
+Process module in middleware
+fs module
+winston for logging
+
+
+
+Architecture of NodeJS API Project
+Any Design Pattern used
+How is scalibility Achieved
+Packages/Modules used
+Securing APIs, Authentication
+What kinds of data are stored
+Any services like Logging 
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
